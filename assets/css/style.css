@@ -1,16 +1,63 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,600&display=swap');
 
+/* corporate color scheme : blue dark #272F7A
+blue light #0B91D0
+light grey #D6D6D6 */
+
+
+
+
 * {
     margin: 0;
     padding: 0;
     border: 0;
 }
 
-html{
+html {
     height: 100%;
     width: 100%;
+    /* background-image: url(/assets/images/weldale1.png);
+    background-repeat: no-repeat;
+    background-position: center; */
+}
+
+.hero-image {
+    margin-top: 8vh;
+    display: flex ;
+    height: 40vh;
+    width: 100%;
+    
 }
 
 body {
-    font-family: 'Open Sans',sans-serif;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.intro-text{
+    text-align: center;
+    padding-top: 12px;
+    color: #272F7A;
+}
+
+p{
+    text-align: center;
+    color: #0B91D0;
+}
+
+/* contact page styles */
+form{
+    box-align: center;
+    border: black;
+    padding: 12%
+}
+input{
+    align-content: center;
+}
+
+ul{
+    color: #0B91D0;
+}
+
+h5{
+    font-weight: 500;
 }
