@@ -4,9 +4,6 @@
 blue light #0B91D0
 light grey #D6D6D6 */
 
-
-
-
 * {
     margin: 0;
     padding: 0;
@@ -29,6 +26,10 @@ html {
     
 }
 
+.menu-title{
+    margin-left: 2%;
+    color: #272F7A;
+}
 body {
     font-family: 'Open Sans', sans-serif;
 }
@@ -45,11 +46,17 @@ p{
 }
 
 /* contact page styles */
-form{
-    box-align: center;
-    border: black;
-    padding: 12%
+.form-style{
+    background: #D6D6D6;
 }
+
+.text-box{
+    border: 2px solid black;
+    color: black;
+    padding: 20px;
+    margin: 45px 25px 0 25px;
+}
+
 input{
     align-content: center;
 }
@@ -60,4 +67,15 @@ ul{
 
 h5{
     font-weight: 500;
+    color: #0B91D0;
+}
+
+.footer-style{
+    color: #fafafa;
+    background-color: #D6D6D6;
+    text-align: center;
+}
+
+.socials {
+    color: #fafafa;
 }
