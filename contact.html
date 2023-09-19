@@ -14,11 +14,10 @@
 <body>
     <header>
         <!-- navbar from w3schools bootstrap5 tutorials -->
-        <nav class="navbar navbar-expand-sm bg-light navbar-light fixed-top">
+        <nav class="navbar navbar-expand-sm bg-light navbar-light">
             <div class="container-fluid">
-                <a class="navbar-brand" href="/assets/images/Crossmark-logo-1.jpg">Crossmark Developments</a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
-                    data-bs-target="#collapsibleNavbar">
+                <a class="navbar-brand" href="index.html"><img src="/assets/images/Crossmark-logo-2.jpg" alt="CM logo"></a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar">
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="collapse navbar-collapse" id="collapsibleNavbar">
@@ -36,19 +35,39 @@
                 </div>
             </div>
         </nav>
+        <!-- end of navbar -->
     </header>
-    <section>
-        <label for="form">Get in touch</label>
-        <form class="form-style" action="post">
-            <textarea class="text-box"name="contact" id="contact" cols="30" rows="10" placeholder="Contact us here?">
-            </textarea>
+    <section class="container-fluid text-center bg-image">
+        <h5 class="contact-heading">If you have a project you'd like our help with, get in touch below..</h5>
+        <div class="row">
+            <div class="col">
+                <input type="text" class="form-control" placeholder="Enter name" name="name">
+            </div>
+            <div class="col">
+                <input type="email" class="form-control" placeholder="Enter email" name="email">
+            </div>
+        </div>
+        <label for="form">Enter details:</label>
+        <form action="POST">
+            <textarea class="text-box" name="contact" id="contact" cols="30" rows="10" placeholder="Contact us">
+    </textarea>
+
         </form>
-        <input class="btn btn-primary"type="submit" id="contact-form" name="contact-form" value="Send">
+        <button class="btn btn-primary" type="submit" id="contact-form" name="contact-form" value="Submit">Submit</button>
     </section>
-
     <footer>
-
+        <div class="container-fluid">
+            <div class="row footer-style">
+                <div class="col">
+                    <h4 class="footer-title">Find us on Socials</h4>
+                    <ul>
+                        <li><a href="url to Cm-instagram"><i class="fa-brands fa-instagram"></i></a></li>
+                        <li><a href="url to Cm-Facebook"><i class="fa-brands fa-facebook"></i></a></li>
+                        <li><a href="url to Cm-LinkedIn"><i class="fa-brands fa-linkedin"></i></a></li>
+                        <li><a href="url to x-twitter"><i class="fa-brands fa-x-twitter"></i></a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
     </footer>
-</body>
-
 </html>

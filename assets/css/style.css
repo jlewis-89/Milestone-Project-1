@@ -3,6 +3,7 @@
 /* corporate color scheme : blue dark #272F7A
 blue light #0B91D0
 light grey #D6D6D6 */
+/* ---------------------- Global CSS -------------------------- */
 
 * {
     margin: 0;
@@ -13,69 +14,81 @@ light grey #D6D6D6 */
 html {
     height: 100%;
     width: 100%;
-    /* background-image: url(/assets/images/weldale1.png);
+    /* background-image: url(/assets/images/weldale1.png) no-repeat center center;
     background-repeat: no-repeat;
     background-position: center; */
 }
 
 .hero-image {
     margin-top: 8vh;
-    display: flex ;
+    display: flex;
     height: 40vh;
     width: 100%;
-    
 }
 
-.menu-title{
-    margin-left: 2%;
-    color: #272F7A;
-}
 body {
     font-family: 'Open Sans', sans-serif;
 }
 
-.intro-text{
+.intro-text {
     text-align: center;
     padding-top: 12px;
     color: #272F7A;
 }
 
-p{
+p {
     text-align: center;
     color: #0B91D0;
 }
 
-/* contact page styles */
-.form-style{
-    background: #D6D6D6;
+a:hover {
+    color: red;
 }
 
-.text-box{
-    border: 2px solid black;
-    color: black;
-    padding: 20px;
-    margin: 45px 25px 0 25px;
+/* ---------------------------- contact page styles -------------------------- */
+
+.contact-heading {
+    padding: 60px;
 }
 
-input{
-    align-content: center;
-}
-
-ul{
+ul {
     color: #0B91D0;
 }
 
-h5{
+h5 {
     font-weight: 500;
     color: #0B91D0;
 }
 
-.footer-style{
+/* ----------------------footer styling----------------------- */
+.footer-style {
     color: #fafafa;
     background-color: #D6D6D6;
     text-align: center;
+    padding: 5px;
 }
 
-.socials {
+.footer-style li {
+    display: inline;
+}
+
+.footer-style li i {
     color: #fafafa;
+    padding: 4px;
+}
+
+.album{
+    height: 50%;
+    width: 100%;
+    background-color: #0B91D0;
+}
+
+
+/* ---------------------- Our Project Styles ----------------------- */
+
+.carousel {
+    padding-top: 80px;
+    text-align: center;
+    max-height: 33vh;
+    max-width: 33vw;
 }
