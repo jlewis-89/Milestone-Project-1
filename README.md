@@ -20,8 +20,13 @@ A static website for the purpose of raising awareness and advertising the busine
 Images courtesy of Crossmark Developments Limited and are owned by the business and used explressly for business use only.
 
 ## Deployment & Testing
+Alpha Testing
 
-TBC
+###Validator HTML / CSS
+
+###Lighthouse
+
+###User Testing
 
 ## Bugs
 TBC

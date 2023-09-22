@@ -33,14 +33,15 @@ body {
 }
 
 .intro-text {
-    text-align: center;
+    
     padding-top: 12px;
     color: #272F7A;
 }
 
 p {
-    text-align: center;
+    text-align: justify;
     color: #0B91D0;
+    padding: 2px 2px 2px 2px;
 }
 
 a:hover {
@@ -51,6 +52,7 @@ a:hover {
 
 .contact-heading {
     padding: 60px;
+    font-weight: 600;
 }
 
 ul {
@@ -60,6 +62,12 @@ ul {
 h5 {
     font-weight: 500;
     color: #0B91D0;
+}
+
+.text-box {
+    border-width: 2px;
+    border-radius: 2px;
+    border-color: rgb(0, 0, 0);
 }
 
 /* ----------------------footer styling----------------------- */
@@ -94,3 +102,10 @@ h5 {
     max-height: 33vh;
     max-width: 33vw;
 }
+
+.project-head {
+    display:flexbox;
+    max-width: 250px;
+    max-height: 150px;
+}
+
