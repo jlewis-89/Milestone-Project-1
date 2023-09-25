@@ -17,7 +17,9 @@ A static website for the purpose of raising awareness and advertising the busine
 
 ### Visuals
 
-Images courtesy of Crossmark Developments Limited and are owned by the business and used explressly for business use only.
+Images courtesy of Crossmark Developments Limited and are owned by the business and used expressly for business use only.
+
+Content has been taken from their current [website](crossmark.group)
 
 ## Deployment & Testing
 Alpha Testing
@@ -29,9 +31,9 @@ Alpha Testing
 ###User Testing
 
 ## Bugs
-TBC
+Hamburger menu not functioning
 ## Fixes
-TBC
+Required bootstrap5 js script
 
 ## Support
 
@@ -43,7 +45,7 @@ Contact Us
 ## Authors and Acknowledgment
 Author: jlewis-89
 ### Credit
-w3school - Bootstrap Navbar
+w3school - Bootstrap Navbar & Contact form Modal
 Font Awesome - Icons / Favicons
 CodeInstitute - GitHub Development Template / Tutorship
 
