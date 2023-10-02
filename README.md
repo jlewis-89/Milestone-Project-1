@@ -1,6 +1,6 @@
 ## Description
 
-Crossmark developments require a  new and update website to host a gallery of projects to raise awareness of the business and showcase there work.
+Crossmark developments require a new and update website to host a gallery of projects to raise awareness of the business and showcase there work.
 This website has been developed in order to facilitate marketing and raising awareness of the brand as well as the type of work it carries out.
 
 ### Usage
@@ -9,11 +9,11 @@ A static website for the purpose of raising awareness and advertising the busine
 
 ## Languages & Frameworks
 
- HTML5
+HTML5
 
- CSS3
+CSS3
 
- Bootstrap 5
+Bootstrap 5
 
 ### Visuals
 
@@ -24,6 +24,7 @@ I have been granted permission to use images within the context of redesigning t
 Content has been taken from their current [website](crossmark.group)
 
 ## Deployment & Testing
+
 Alpha Testing
 
 ###Validator HTML / CSS
@@ -33,22 +34,30 @@ Alpha Testing
 ###User Testing
 
 ## Bugs
+
 Hamburger menu not functioning
+
 ## Fixes
+
 Required bootstrap5 js script
 
 ## Support
+
 Bootstrap 5 [Official](https://getbootstrap.com/)
 W3Schools [Bootstrap 5](https://www.w3schools.com/bootstrap5/index.php)
 
 ## Roadmap
+
 About Us
 Projects
 Contact Us
 
 ## Authors and Acknowledgment
+
 Author: jlewis-89
+
 ### Credit
+
 Vootstrap Offcial Documentation
 W3School
 Font Awesome - Icons / Favicons
@@ -58,7 +67,9 @@ HTML Validator
 CSS Validator
 
 ## License
+
 N/A
 
 ## Project Status
+
 In development

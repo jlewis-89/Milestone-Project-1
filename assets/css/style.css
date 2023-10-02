@@ -88,6 +88,11 @@ h5 {
     border-color: rgb(0, 0, 0);
 }
 
+iframe{
+    width: 100%;
+    height: 300px;
+}
+
 /* ----------------------footer styling----------------------- */
 .footer-style {
     color: #fafafa;
