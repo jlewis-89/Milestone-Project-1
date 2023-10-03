@@ -107,17 +107,17 @@ A static website for the purpose of raising awareness and advertising the busine
 
 ### Bugs
 
-    Hamburger menu not functioning - Fixed
+    1. Hamburger menu not functioning - Fixed
 
 ### Fixes
 
-    Required bootstrap5 js script
+    2. Required missing bootstrap5 js script
 
 ### Known Bugs
 
-    Image distortion on project carousel images at different media widths
+    1. Image distortion on project carousel during transitions
 
-    Social links in footer - The company does not currently have any social media pages to link to.
+    2. Social links in footer - The company does not currently have any social media pages to link to.
 
 ### Further Testing
 

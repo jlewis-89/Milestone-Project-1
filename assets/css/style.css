@@ -110,7 +110,7 @@ iframe{
 /* ---------------------- Our Project Styles ----------------------- */
 .carousel {
     text-align: center;
-    max-width: 50vw;
+    max-width: max-content;
     margin: auto;
 }
 
@@ -130,6 +130,7 @@ iframe{
 .slider{
     height: 300px;
     width: 100%;
+    image-rendering: auto;
 }
 
 #map {
