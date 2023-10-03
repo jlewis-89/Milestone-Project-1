@@ -57,7 +57,7 @@ A static website for the purpose of raising awareness and advertising the busine
 
 ### Wireframes
 
-    To be supplied
+![Wireframes](assets/testing/wireframe-mockups.png)
 
 ## Languages, Frameworks & Libraries
 
@@ -92,10 +92,14 @@ A static website for the purpose of raising awareness and advertising the busine
 
 - 1 page tested through [CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
   - 1 error RE: external stylesheets are unable to be validated - This is due to the use of Bootstrap5 on the project development
+    ![CSS Validator Output](assets/testing/Milestone1-CSSvalidator.png)
 
 ### Lighthouse
 
     Performance testing of 3 pages via lighthouse
+    [index.html](assets/testing/CM - index lighthousev1.0.pdf)
+    [project.html](assets/testing/CM - project lighthousev1.0.pdf)
+    [contact.html](assets/testing/CM - contact lighthousev1.0.pdf)
 
 ### User Testing
 
@@ -112,6 +116,8 @@ A static website for the purpose of raising awareness and advertising the busine
 ### Known Bugs
 
     Image distortion on project carousel images at different media widths
+
+    Social links in footer - The company does not currently have any social media pages to link to.
 
 ### Further Testing
 
