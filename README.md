@@ -109,6 +109,16 @@ A static website for the purpose of raising awareness and advertising the busine
 
     Required bootstrap5 js script
 
+### Known Bugs
+
+    Image distortion on project carousel images at different media widths
+
+### Further Testing
+
+    - Website has been tested on Chrome, Firefox, and Internet Explorer
+    - The website has been tested on a number of devices for style UX and responsiveness
+    - Friends and family have reviewed the site for UX and bugs
+
 ## Deployment
 
 ### GitHub Pages
