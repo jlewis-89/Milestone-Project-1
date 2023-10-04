@@ -108,10 +108,14 @@ A static website for the purpose of raising awareness and advertising the busine
 ### Bugs
 
     1. Hamburger menu not functioning - Fixed
+    2. Broken links when deployed on git pages
+    3. No iframe when deployed on git pages
 
 ### Fixes
 
-    2. Required missing bootstrap5 js script
+    1. Required missing bootstrap5 js script
+    2. Link paths required relative reference
+    3. Not secure mixed HTTP & HTTPS calls, corrected iframe to HTTPS link
 
 ### Known Bugs
 
@@ -119,10 +123,12 @@ A static website for the purpose of raising awareness and advertising the busine
 
     2. Social links in footer - The company does not currently have any social media pages to link to.
 
+    3. Contact Submission has no backend to collect or recieve input from user
+
 ### Further Testing
 
-    - Website has been tested on Chrome, Firefox, and Internet Explorer
-    - The website has been tested on a number of devices for style UX and responsiveness
+    - Website has been tested on Chrome, Firefox, and Internet Explorer browsers
+    - The website has been tested on a number of devices for style, UX and responsiveness
     - Friends and family have reviewed the site for UX and bugs
 
 ## Deployment
@@ -176,7 +182,7 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 ## Support
 
 - Bootstrap 5 [Official](https://getbootstrap.com/)
-- W3Schools [Bootstrap 5](https://www.w3schools.com/bootstrap5/index.php)
+- W3Schools [W3Schools - Bootstrap 5](https://www.w3schools.com/bootstrap5/index.php)
 
 ## Site map
 
@@ -200,6 +206,7 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
   - Bootstrap Official Documentation
   - W3School
   - Code Institute
+
 - Media
 
   - Crossmark Developments Ltd
