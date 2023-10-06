@@ -98,6 +98,9 @@ iframe{
     text-align: center;
     padding: 5px;
 }
+.footer-style p{
+    color: #fafafa;
+}
 
 .footer-style li {
     display: inline;
