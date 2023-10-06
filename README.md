@@ -1,6 +1,8 @@
 # Crossmark Developments Website
 
-[view the live project](https://jlewis-89.github.io/Milestone-Project-1/)
+[live project](https://jlewis-89.github.io/Milestone-Project-1/)
+
+![Mockup](assets/testing/cm-mockup.png)
 
 ## Description
 
@@ -19,9 +21,9 @@ A static website for the purpose of raising awareness and advertising the busine
 
     1. As a First Time User, I want to be able to understand the site layout and movearound it intuitively and unimpeded
 
-    2. As a First Time User, I want the website to be respopnsive across multipledevices but also fast load
+    2. As a First Time User, I want the website to be respopnsive across multiple devices but also fast load
 
-    3. As a First Time User, I want to be able to gain useful and actionable informationon the company and its operations
+    3. As a First Time User, I want to be able to gain useful and actionable information on the company and its operations
 
     4. As a First Time User, I want to be able to make contact should I require more information on the business and my needs
 
@@ -49,7 +51,7 @@ A static website for the purpose of raising awareness and advertising the busine
 
 #### Typography
 
-    Open Sana font has been used throughout as this font has been designed for online and screen read devices to easy fatigue on the eyes and enable a cleaner more ledgible page
+    Open Sans font has been used throughout as this font has been designed for online and screen read devices to easy fatigue on the eyes and enable a cleaner more ledgible page
 
 #### Imagery
 
@@ -103,7 +105,13 @@ A static website for the purpose of raising awareness and advertising the busine
 
 ### User Testing
 
-    Alpha Testing Feedback
+    Testing User Stories
+
+        First Time User - Feedback from users suggests the website is simplistic, easy to navigate and use, no noticeable issues with loading speed or navigation issues.
+
+        Returning User - Feedback from users suggested the website was easy to become familiar with and use.
+
+        Frequent User - Feedback suggests the website is easy to access and use, offers feedback on interactions and has a simple and esay to use design.
 
 ### Bugs
 
